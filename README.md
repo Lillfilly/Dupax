@@ -6,8 +6,7 @@ A webbtemplate / boilerplate for smaller websites and webbaplications using PHP.
 This was created as a part of OOPHP, a webbprogramming course at Blekinge Tekniska Högskola.
 Follow this link: http://dbwebb.se/oophp/ to read more about it.
 
-Some features
----------------
+###Some features
 *Easy access to databases through PDO
 *HTMLTable to easily make a table out of a database-result
 *TextFilter: Some filters to help you to format strings
